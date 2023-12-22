@@ -9,3 +9,7 @@ Currently studying Computer Science at Warsaw University of Technology's Faculty
 ### Projects
 - project 1
 - project 2
+
+### Tutaj dodaje nowe rzeczy. 
+- rzecz pierwsza
+1. Tutaj coś nowego
