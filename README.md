@@ -7,7 +7,7 @@ Currently studying Computer Science at Warsaw University of Technology's Faculty
 
 
 ### Projects
-- project 1
+- [project 1](https://github.com/mGarbowski/pap-projekt)
 - project 2
 
 ### Tutaj dodaje nowe rzeczy. 
