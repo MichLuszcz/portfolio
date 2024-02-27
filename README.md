@@ -7,8 +7,8 @@ Currently studying Computer Science at Warsaw University of Technology's Faculty
 
 
 ### Projects
-- [project 1](https://github.com/mGarbowski/pap-projekt)
-- project 2
+- [Web application for rating language courses on WUT](https://github.com/mGarbowski/pap-projekt)
+- [AI algorithms](https://github.com/MichLuszcz/basic-AI-algorithms)
 
 ### Tutaj dodaje nowe rzeczy. 
 - rzecz pierwsza
