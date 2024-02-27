@@ -9,6 +9,7 @@ Currently studying Computer Science at Warsaw University of Technology's Faculty
 ### Projects
 - [Web application for rating language courses on WUT](https://pap.mgarbowski.pl) (will be opened as open-source soon)
 - [Chess with a graphical interface, written in C++](https://github.com/threescomplement/proi-chess)
+- [Database for a hotel with a complimentary cli app](https://github.com/threescomplement/bd1-hotel-app) (I'm responsible for PLSQL procedures)
 - [AI algorithms](https://github.com/MichLuszcz/basic-AI-algorithms)
 - [Dijkstra algorithm](https://github.com/MichLuszcz/dijkstra-algorithm-practice)
 
