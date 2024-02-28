@@ -32,6 +32,7 @@
 	- Dealing with HTTP requests
 	- Object-Relational Mapping
 	- Using Postman
+
 - ## [Guide Dog app](https://github.com/Faculty-guide-dog-app-team/Faculty-guide-dog-app)
 	A mobile application written in React meant to help mainly those hard of seeing find their way around universities, government buildings and other similar places. Useful to anyone wanting to quickly find their way around a building. Utilises BLE signals from transmitters (ESP-32 mikrocontrollers) placed around the building to accurately determine the users location by trilateration. The user may enter the number of the room they are looking for either by normal means or a voice command. The app uses the Dijkstra algorithm to find the shortest path to said room, and gives the user a series of detailed instructions on how to get there. 
 	
@@ -42,6 +43,7 @@
 	- Designing a map format for representing the building, rooms and corridors to be used by the navigation system
 	- Determining the optimal placement of the BLE transmitters for maximum area coverage
 	- (group meeting) Consulting with a blind person about the difficulties they faced in day-to-day life to determine the theme of the project and the functionalities needed 
+
 - #### [Chess written in C++ using QT for the GUI](https://github.com/threescomplement/proi-chess)
 	 I was responsible for the graphical interface that used the backend developed by my the other team members as well as helping out in the design process of the class hierarchy and functionalities needed in it. 
 - #### [Database for a hotel with a cli app for operating the hotel](https://github.com/threescomplement/bd1-hotel-app) 
