@@ -17,13 +17,16 @@
 - 2022-currently | Computer Science, Warsaw University of Technology
 
 ### Projects
-- ### [Web application for rating language courses on WUT](https://pap.mgarbowski.pl) (will be opened as open-source soon)
-	 Our faculty had a website for rating different courses and professors, but our university had been lacking something similar for the language courses. This application is meant to solve that problem by allowing users to (having first created an account) rate different language classes and their teachers, so the next students can choose knowing how others felt about the class. The app features a secure registration and login procedure requiring an email confirmation and using JWTs for user verification. The users are able to engage in discussions under each course review, as well as report any content they deem hurtful, false or otherwise harmful to the administrators, which review the reports in a special admin panel and decide what to do next.
+- ## [Web application for rating language courses on WUT](https://github.com/threescomplement/pap-projekt) (will be opened as open-source soon) https://pap.mgarbowski.pl
+	 Our faculty had a website for rating different courses and professors, but our university had been lacking something similar for the language courses. This application is meant to solve that problem by allowing users to (having first created an account) rate different language classes and their teachers, so the next students can choose knowing how others felt about the class. 
+	 
+	 The app features a secure registration and login procedure requiring an email confirmation and using JWTs for user verification. The users are able to engage in discussions under each course review, as well as report any content they deem hurtful, false or otherwise harmful to the administrators, which review the reports in a special admin panel and decide what to do next.
 	 The backend of the app is written in Java using Springboot. The frontend uses React and Typescript. 
 	 
 	 I was responsible for:
 	 - modeling much of the Java classes representing objects in the database such as Courses, reviews, comments, etc. using Object-Relational Mapping
 	 - Designing and writing API endpoints. 
+	
 	What I learned:
 	- Designing and writing REST APIs
 	- Dealing with HTTP requests
@@ -31,7 +34,9 @@
 	- Using Postman
 - ## [Guide Dog app](https://github.com/Faculty-guide-dog-app-team/Faculty-guide-dog-app)
 	A mobile application written in React meant to help mainly those hard of seeing find their way around universities, government buildings and other similar places. Useful to anyone wanting to quickly find their way around a building. Utilises BLE signals from transmitters (ESP-32 mikrocontrollers) placed around the building to accurately determine the users location by trilateration. The user may enter the number of the room they are looking for either by normal means or a voice command. The app uses the Dijkstra algorithm to find the shortest path to said room, and gives the user a series of detailed instructions on how to get there. 
-	The app is a prototype, but could easily be expanded upon and improved. The main issue is the use of BLE instead of other, more accurate forms of determining the user's distance from the transmitters, but that's the only thing we were provided with
+	
+	The app is a prototype, but could easily be expanded upon and improved. The main issue is the use of BLE instead of other, more accurate forms of determining the user's distance from the transmitters, but that's the only thing we were provided with.
+	
 	I was responsible for:
 	- The navigation system, using typescript and dijkstra's algorithm
 	- Designing a map format for representing the building, rooms and corridors to be used by the navigation system
