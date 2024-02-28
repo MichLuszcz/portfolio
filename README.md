@@ -8,6 +8,7 @@
 - Typescript (basic knowledge)
 - SQL and PLSQL
 - Assembly (basic knowledge)
+
 ## Things I'd like to learn
 - UX design
 - the software design process
