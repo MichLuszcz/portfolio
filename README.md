@@ -11,7 +11,7 @@
 
 ## Things I'd like to learn
 - UX design
-- the software design process
+- Designing large applications
 
 ## Education
 - 2022-currently | Computer Science, Warsaw University of Technology
