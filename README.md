@@ -47,9 +47,8 @@
 - #### [Database for a hotel with a cli app for operating the hotel](https://github.com/threescomplement/bd1-hotel-app) 
 	I'm responsible for PLSQL procedures used in the database
 - [AI algorithms](https://github.com/MichLuszcz/basic-AI-algorithms)
+	 
 	 I know how most basic AI algorithms such as Q-Learning, Neural nets, Evolutionary algorithms, Support Vector Machines and Bayesian networks work and how to implement and use them.
-- [Dijkstra algorithm](https://github.com/MichLuszcz/dijkstra-algorithm-practice)
-	 A separate, smaller project focused solely on the Dijkstra algorithm
 
 - Text game in 3 languages using different programming paradigms:
   - [Prolog](https://github.com/MichLuszcz/space-text-game-prolog)
